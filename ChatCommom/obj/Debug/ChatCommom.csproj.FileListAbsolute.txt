@@ -1,0 +1,6 @@
+C:\Users\pedro\source\repos\ChatBolada1\ChatCommom\bin\Debug\ChatCommom.dll
+C:\Users\pedro\source\repos\ChatBolada1\ChatCommom\bin\Debug\ChatCommom.pdb
+C:\Users\pedro\source\repos\ChatBolada1\ChatCommom\obj\Debug\ChatCommom.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ChatBolada1\ChatCommom\obj\Debug\ChatCommom.dll
+C:\Users\pedro\source\repos\ChatBolada1\ChatCommom\obj\Debug\ChatCommom.pdb
+C:\Users\pedro\source\repos\ChatBolada1\ChatCommom\obj\Debug\ChatCommom.csproj.AssemblyReference.cache

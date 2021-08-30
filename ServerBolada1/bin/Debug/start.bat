@@ -1,0 +1,1 @@
+ServerBolada1.exe 26.122.96.166:666
